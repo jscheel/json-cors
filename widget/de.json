@@ -1,34 +1,32 @@
 {
-  "de": {
-    "widget": {
-      "text_button": "Klicken Sie hier für Hilfe"
+  "widget": {
+    "text_button": "Klicken Sie hier für Hilfe"
+  },
+  "tabs": {
+    "kb": {
+      "headline": "Wie können wir Ihnen heute behilflich sein?",
+      "subheading": "Hier finden Sie Antworten auf häufig gestellte Fragen unter",
+      "search_placeholder": "Geben Sie eine Frage, Stichwort, oder Thema...",
+      "did_not_find": "Haben Sie nicht die Antwort auf Ihre Frage finden?",
+      "email_button": "Senden Sie uns eine Email",
+      "article_loading": "Laden..."
     },
-    "tabs": {
-      "kb": {
-        "headline": "Wie können wir Ihnen heute behilflich sein?",
-        "subheading": "Hier finden Sie Antworten auf häufig gestellte Fragen unter",
-        "search_placeholder": "Geben Sie eine Frage, Stichwort, oder Thema...",
-        "did_not_find": "Haben Sie nicht die Antwort auf Ihre Frage finden?",
-        "email_button": "Senden Sie uns eine Email",
-        "article_loading": "Laden..."
-      },
-      "contact": {
-        "headline": "Wir sind hier um zu helfen.",
-        "subheading": "Senden Sie Ihre Frage unten ein und wir werden innerhalb der nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
-        "email_placeholder": "Meine E-Mail",
-        "subject_placeholder": "Fach",
-        "labels_placeholder": "wählen Sie Topic",
-        "message_placeholder": "Schreiben Sie ihre Nachricht hier...",
-        "matching_articles": "passende Artikel",
-        "all_articles": "Alle Artikel",
-        "email_button": "Senden Sie uns eine Email",
-        "cancel_button": "Abbrechen",
-        "footer": "Wir werden in den nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
-        "dropzone": "Dateien hier ablegen",
-        "confirmation_headline": "Vielen Dank für Ihre Nachricht!",
-        "confirmation_message": "Wir freuen uns über Ihr Feedback wirklich und wird innerhalb der nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
-        "confirmation_close": "Schließen"
-      }
+    "contact": {
+      "headline": "Wir sind hier um zu helfen.",
+      "subheading": "Senden Sie Ihre Frage unten ein und wir werden innerhalb der nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
+      "email_placeholder": "Meine E-Mail",
+      "subject_placeholder": "Fach",
+      "labels_placeholder": "wählen Sie Topic",
+      "message_placeholder": "Schreiben Sie ihre Nachricht hier...",
+      "matching_articles": "passende Artikel",
+      "all_articles": "Alle Artikel",
+      "email_button": "Senden Sie uns eine Email",
+      "cancel_button": "Abbrechen",
+      "footer": "Wir werden in den nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
+      "dropzone": "Dateien hier ablegen",
+      "confirmation_headline": "Vielen Dank für Ihre Nachricht!",
+      "confirmation_message": "Wir freuen uns über Ihr Feedback wirklich und wird innerhalb der nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
+      "confirmation_close": "Schließen"
     }
   }
 }

@@ -1,0 +1,28 @@
+{
+  "languages": {
+    "cs":     "Czech",
+    "da":     "Danish",
+    "de":     "German",
+    "el":     "Greek",
+    "en":     "English",
+    "es":     "Spanish",
+    "fi":     "Finnish",
+    "fr":     "French",
+    "hu":     "Hungarian",
+    "id":     "Indonesian",
+    "it":     "Italian",
+    "ja":     "Japanese",
+    "ko":     "Korean",
+    "lt":     "Lithuanian",
+    "nb":     "Norwegian (Bokml)",
+    "nl":     "Dutch (Standard)",
+    "pl":     "Polish",
+    "pt-BR":  "Portuguese (Brazil)",
+    "ro":     "Romanian",
+    "ru":     "Russian",
+    "sl":     "Slovenian",
+    "sv":     "Swedish",
+    "tr":     "Turkish",
+    "zh-CN":  "Chinese (PRC)"
+  }
+}
