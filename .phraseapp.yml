@@ -7,4 +7,4 @@ phraseapp:
       - file: "./widget/*.json"
   pull:
     targets:
-    - file: "./widget/<locale_name>.json"
+      - file: "./widget/<locale_code>.json"
