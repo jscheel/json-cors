@@ -4,7 +4,7 @@ phraseapp:
   file_format: json
   push:
     sources:
-      - file: "./widget/*.yml"
+      - file: "./widget/*.json"
   pull:
     targets:
-    - file: "./widget/<locale_name>.yml"
+    - file: "./widget/<locale_name>.json"
