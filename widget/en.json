@@ -1,0 +1,32 @@
+{
+  "widget": {
+    "text_button": "Click Here for Help"
+  },
+  "tabs": {
+    "kb": {
+      "headline": "How can we help you today?",
+      "subheading": "Find answers to common questions below",
+      "search_placeholder": "Enter a question, keyword, or topic...",
+      "did_not_find": "Didn't find the answer to your question?",
+      "email_button": "Send us an email",
+      "article_loading": "Loading..."
+    },
+    "contact": {
+      "headline": "We're here to help.",
+      "subheading": "Send your question below and we'll get back to you within the next 24 hours.",
+      "email_placeholder": "My Email",
+      "subject_placeholder": "Subject",
+      "labels_placeholder": "Choose Topic",
+      "message_placeholder": "Type your message here...",
+      "matching_articles": "matching articles",
+      "all_articles": "See All Articles",
+      "email_button": "Send us an email",
+      "cancel_button": "Cancel",
+      "footer": "We'll get back to you in the next 24 hours.",
+      "dropzone": "Drop files here",
+      "confirmation_headline": "Thanks for your note!",
+      "confirmation_message": "We really appreciate your feedback and will get back to you within the next 24 hours.",
+      "confirmation_close": "Close widget"
+    }
+  }
+}
