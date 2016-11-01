@@ -4,6 +4,7 @@
   },
   "tabs": {
     "kb": {
+      "tab_name": "Wissensbasis",
       "headline": "Wie können wir Ihnen heute behilflich sein?",
       "subheading": "Hier finden Sie Antworten auf häufig gestellte Fragen unter",
       "search_placeholder": "Geben Sie eine Frage, Stichwort, oder Thema...",
@@ -12,6 +13,7 @@
       "article_loading": "Laden..."
     },
     "contact": {
+      "tab_name": "Kontakt",
       "headline": "Wir sind hier um zu helfen.",
       "subheading": "Senden Sie Ihre Frage unten ein und wir werden innerhalb der nächsten 24 Stunden mit Ihnen in Verbindung setzen.",
       "email_placeholder": "Meine E-Mail",
