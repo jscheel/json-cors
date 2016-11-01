@@ -4,6 +4,7 @@
   },
   "tabs": {
     "kb": {
+      "tab_name": "Knowledge Base",
       "headline": "How can we help you today?",
       "subheading": "Find answers to common questions below",
       "search_placeholder": "Enter a question, keyword, or topic...",
@@ -12,6 +13,7 @@
       "article_loading": "Loading..."
     },
     "contact": {
+      "tab_name": "Contact",
       "headline": "We're here to help.",
       "subheading": "Send your question below and we'll get back to you within the next 24 hours.",
       "email_placeholder": "My Email",
